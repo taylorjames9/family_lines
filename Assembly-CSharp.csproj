@@ -47,7 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Dot_Node.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\Set_Collections.cs" />
+     <Compile Include="Assets\Scripts\UIDisplayManager.cs" />
      <Compile Include="Assets\Scripts\cam_mov_script.cs" />
      <Compile Include="Assets\Scripts\coin_disappear.cs" />
  <Reference Include="UnityEngine.Analytics">
